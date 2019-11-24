@@ -1,2 +1,2 @@
-# AWS-Certified-Developer-Associate
+# AWS Certified Developer Associate
 Prepare for Certification
