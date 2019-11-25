@@ -1,4 +1,4 @@
-Identity Access Management - сервис для аутентификации, авторизации и управления доступностью AWS сервисов. Един для всех сервисов. 
+Identity Access Management https://docs.aws.amazon.com/iam/index.html - сервис для аутентификации, авторизации и управления доступностью AWS сервисов. Един для всех сервисов. 
 Реплицируется по всем регионам и доступен всюду.  В дополнение с Web console, SDK, CLI имеет свой IAM HTTPS API
 
 IAM Components:
